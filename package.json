@@ -1,5 +1,5 @@
 {
-    "name": "node-varnish",
+    "name": "@mic/node-varnish",
     "version": "1.0.0",
     "main": "./lib/node-varnish/index.js",
     "description": "A node.js connector to Varnish using the Varnish telnet management protocol",
